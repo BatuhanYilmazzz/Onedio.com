@@ -1,6 +1,6 @@
 # Facebook-Home
 
--_HTML5_
+- _HTML5_
 - _CSS3_
 - _Bootstrap 4_
 
